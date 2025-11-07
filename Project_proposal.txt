@@ -1,1 +1,9 @@
+đề xuất 1: small languague model
+  Small languague model (SLM) được định hướng forcus vào việc tối ưu để có thể chạy nhiều instance cùng một lúc với 1 máy
+ứng dụng :
+          NPC cho game mô phỏng
+          hệ thống chatbot siêu nhỏ, mang tính giống như chuyên gia
+hạn chế :
+          không ai biết gì về llm cho tới hiện tại
+          nếu có làm thì đối tượng hướng tới bị mơ hồ và không có mục tiêu cụ thể
 
