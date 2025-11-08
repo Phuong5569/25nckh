@@ -7,3 +7,10 @@ hạn chế :
           không ai biết gì về llm cho tới hiện tại
           nếu có làm thì đối tượng hướng tới bị mơ hồ và không có mục tiêu cụ thể
 
+đề xuất 2:  ánh xạ kích thước vật thể vào không gian vecto 3D
+
+Ứng dụng: 
+Thiết kế nội thất với địa hình nhà cụ thể, tính diện tích đất, mô hình hóa ngôi nhà
+
+Hạn chế: Sai số cao
+
