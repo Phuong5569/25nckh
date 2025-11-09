@@ -17,3 +17,8 @@ Hạn chế: Sai số cao
 đề xuất 3: Nhận dạng hành vi lừa đảo từ tin nhắn/cuộc gọi mạng
 
 xu hướng: Đồng bào bị chích điện, người dân bị úp bô bay tiền
+
+đề xuất 4: Nhận dạng thông tin cá nhân người dùng tự động mã hóa khi có tấn công 	mạng, giải mã link độc tự động.
+ứng dung: 
+	áp dụng cho các sàn thương mại điện tử nhằm nâng cao bảo mật thông tin 	khách hàng đồng thời tránh việc khách hàng bấm vào các link mã hóa và bị 	đánh cắp tài sản.
+hạn chế: Liệu có quá đơn giản đối với 1 bài nckh.
