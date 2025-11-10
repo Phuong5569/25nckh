@@ -1,4 +1,4 @@
-đề xuất 1: small languague model
+- đề xuất 1: small languague model
   Small languague model (SLM) được định hướng forcus vào việc tối ưu để có thể chạy nhiều instance cùng một lúc với 1 máy
 ứng dụng :
           NPC cho game mô phỏng
@@ -7,18 +7,19 @@ hạn chế :
           không ai biết gì về llm cho tới hiện tại
           nếu có làm thì đối tượng hướng tới bị mơ hồ và không có mục tiêu cụ thể
 
-đề xuất 2:  ánh xạ kích thước vật thể vào không gian vecto 3D
+- đề xuất 2:  ánh xạ kích thước vật thể vào không gian vecto 3D
 
 Ứng dụng: 
 Thiết kế nội thất với địa hình nhà cụ thể, tính diện tích đất, mô hình hóa ngôi nhà
 
 Hạn chế: Sai số cao
 
-đề xuất 3: Nhận dạng hành vi lừa đảo từ tin nhắn/cuộc gọi mạng
+- đề xuất 3: Nhận dạng hành vi lừa đảo từ tin nhắn/cuộc gọi mạng
 
 xu hướng: Đồng bào bị chích điện, người dân bị úp bô bay tiền
 
-đề xuất 4: Nhận dạng thông tin cá nhân người dùng tự động mã hóa khi có tấn công 	mạng, giải mã link độc tự động.
+- đề xuất 4: Nhận dạng thông tin cá nhân người dùng tự động mã hóa khi có tấn công 	mạng, giải mã link độc tự động.
 ứng dung: 
 	áp dụng cho các sàn thương mại điện tử nhằm nâng cao bảo mật thông tin 	khách hàng đồng thời tránh việc khách hàng bấm vào các link mã hóa và bị 	đánh cắp tài sản.
-hạn chế: Liệu có quá đơn giản đối với 1 bài nckh. Tôi cũng không biết gì về cái 	vấn de bảo mật này
+hạn chế: Liệu có quá đơn giản đối với 1 bài nckh. Tôi cũng không biết gì về cái 	vấn de bảo mật này.
+tham khảo: https://onlinelibrary.wiley.com/doi/full/10.1155/2021/5540670
