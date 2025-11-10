@@ -21,4 +21,4 @@ xu hướng: Đồng bào bị chích điện, người dân bị úp bô bay ti
 đề xuất 4: Nhận dạng thông tin cá nhân người dùng tự động mã hóa khi có tấn công 	mạng, giải mã link độc tự động.
 ứng dung: 
 	áp dụng cho các sàn thương mại điện tử nhằm nâng cao bảo mật thông tin 	khách hàng đồng thời tránh việc khách hàng bấm vào các link mã hóa và bị 	đánh cắp tài sản.
-hạn chế: Liệu có quá đơn giản đối với 1 bài nckh.
+hạn chế: Liệu có quá đơn giản đối với 1 bài nckh. Tôi cũng không biết gì về cái 	vấn de bảo mật này
