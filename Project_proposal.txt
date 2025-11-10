@@ -22,4 +22,7 @@ xu hướng: Đồng bào bị chích điện, người dân bị úp bô bay ti
 ứng dung: 
 	áp dụng cho các sàn thương mại điện tử nhằm nâng cao bảo mật thông tin 	khách hàng đồng thời tránh việc khách hàng bấm vào các link mã hóa và bị 	đánh cắp tài sản.
 hạn chế: Liệu có quá đơn giản đối với 1 bài nckh. Tôi cũng không biết gì về cái 	vấn de bảo mật này.
-tham khảo: https://onlinelibrary.wiley.com/doi/full/10.1155/2021/5540670
+	tham khảo: https://onlinelibrary.wiley.com/doi/full/10.1155/2021/5540670
+- đề xuất 5: Phát hiện nhận dạng các hành động nguy hiểm của con người như đánh 	nhau, leo trèo té ngã, dự đoán hành động của người mang vật thể nguy hiểm.
+ứng dụng: quản lý an toàn trật tự công cộng.
+hạn chế: Sai số lớn dễ nhận nhầm hành động.
